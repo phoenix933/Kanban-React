@@ -12,6 +12,8 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Kanban-React](https://github.com/seniorcoder72/Kanban-React/blob/master/img/img1.jpg?raw=true)
+![Kanban-React](https://github.com/seniorcoder72/Kanban-React/blob/master/img/img1.jpg?raw=true)
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
