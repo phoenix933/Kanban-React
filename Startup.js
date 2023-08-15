@@ -1,5 +1,5 @@
 //For yolo
 const Index = () => {
     const var_a = 5;
-    const var_b = 1;
+    const var_b = 2;
 }
