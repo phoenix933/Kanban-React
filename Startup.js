@@ -14,6 +14,9 @@ const StartUp = () => {
                 <div className="flex justify-center items-center w-40 h-40">
                     18
                 </div>
+                <div className="flex justify-center items-center w-40 h-40">
+                    19
+                </div>
             </div>
         </>
     )
