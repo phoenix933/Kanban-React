@@ -28,6 +28,9 @@ const StartUp = () => {
                 </div>                
                 <div className="flex justify-center items-center w-40 h-40">
                     8
+                </div>                
+                <div className="flex justify-center items-center w-40 h-40">
+                    9
                 </div>
             </div>
         </>
