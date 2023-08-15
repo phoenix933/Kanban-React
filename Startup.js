@@ -4,7 +4,7 @@ const StartUp = () => {
     const [state, setState] = useState('Heading here...')
     return (
         <>
-            <div className="">
+            <div className="flex flex-col">
 
             </div>
         </>
